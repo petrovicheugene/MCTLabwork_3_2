@@ -49,7 +49,7 @@ int main()
     cout << "Interval lenghts: hy: " << M_PI / static_cast<double>(num_intervals)
          << " hx: " << 2.0 / static_cast<double>(num_intervals) << endl;
 
-    getchar();
+    system("pause");
     return 0;
 }
 //=====================================================
